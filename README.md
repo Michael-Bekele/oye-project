@@ -1,17 +1,23 @@
 # Movie-api
 
-A simple api made by using Nodejs, Expressjs and MongoDb for listing movie available with pagination.
+     A simple api made by using Nodejs, Expressjs and MongoDb for listing movies available with pagination.
 
-# Requirements
+## Requirements:
 
--Nodejs
--dotenv
--mongodb
--expressjs
--joi
+    Nodejs
 
-# Installation
+    dotenv
 
--Clone this repo using git clone
--Install the required dependencies using npm install
--Start the application using npm start
+    mongodb
+
+    expressjs
+
+    joi
+
+## Installation
+
+    Clone this repo using git clone
+
+    Install the required dependencies using npm install
+
+    Start the application using npm start
